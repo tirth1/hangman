@@ -15,7 +15,8 @@
 ## Introduction
 Hangman is the game where the word to guess is represented by a row of dashes, representing each letter of the word.The player guessing the word may, at any time, attempt to guess the whole word. As the name of the game suggests, the diagram is designed to look like a hanging man.  As the player continues, a part of the stick figure on the noose is added. Once a full body is drawn, the game is over, and the player lost. [read more...](https://en.wikipedia.org/wiki/Hangman_(game))
 
-## ![Demo](demo.gif)
+## Demo
+![](demo.gif)
 
 ## Setup
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads), [Python](https://www.python.org/downloads/) and pip (already installed with Python 2 >=2.7.9 or Python 3 >=3.4) or [Anacond](https://docs.anaconda.com/anaconda/install/) installed on your computer.
